@@ -575,4 +575,3 @@ $\lfloor (n_h-k_h+p_h+s_h)/s_h\rfloor \times \lfloor (n_w-k_w+p_w+s_w)/s_w\rfloo
 ## 8.3.语言模型和数据集
 
 ### 8.3.1.学习语言模型
-/git
