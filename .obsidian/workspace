@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c1499aa87b188894",
+        "id": "eef18bcab26542d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class notes/MySql.md",
+            "file": "class notes/常用软件安装大全.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/MySql.md",
+                "file": "class notes/常用软件安装大全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/MySql.md",
+                "file": "class notes/常用软件安装大全.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/MySql.md"
+                "file": "class notes/常用软件安装大全.md"
               }
             }
           },
@@ -143,17 +143,17 @@
     "width": 223.4285888671875,
     "collapsed": true
   },
-  "active": "c1499aa87b188894",
+  "active": "eef18bcab26542d5",
   "lastOpenFiles": [
-    "class notes/MySql.md",
+    "class notes/常用软件安装大全.md",
+    "class notes/attachments/Pasted image 20220623205455.png",
     "class notes/Python 3 网络爬虫开发实战.md",
     "class notes/Python for data analysis,3E.md",
     "class notes/Ubuntu系统实践.md",
-    "class notes/常用软件安装大全.md",
-    "class notes/attachments/Pasted image 20220623210252.png",
-    "class notes/attachments/Pasted image 20220623205455.png",
+    "linux/WSL实操.md",
     "class notes/MongoDB.md",
-    "class notes/JavaScript && Css.md",
-    "class notes/DOCKER.md"
+    "class notes/MySql.md",
+    "class notes/attachments/Pasted image 20220623210252.png",
+    "class notes/JavaScript && Css.md"
   ]
 }

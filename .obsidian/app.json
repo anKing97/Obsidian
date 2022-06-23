@@ -16,5 +16,5 @@
   "strictLineBreaks": true,
   "readableLineLength": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
