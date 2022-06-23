@@ -15,5 +15,6 @@
   },
   "strictLineBreaks": true,
   "readableLineLength": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
