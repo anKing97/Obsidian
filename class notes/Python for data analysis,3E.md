@@ -401,7 +401,7 @@ int_arr.astype(calibers.dtype)
     
     例如获取二维数组中的某一元素： `arr[0][2]` 或者 `arr[0,2]`
     
-    ![二维数组各个元素对应的坐标](Untitled%2010.png)
+    ![二维数组各个元素对应的坐标](attachments/Untitled%2010.png)
     
     二维数组各个元素对应的坐标
     

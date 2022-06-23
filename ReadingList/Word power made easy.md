@@ -7,7 +7,7 @@ Status: Reading
 Summary:  30 days to a more powerful vocabulary
 Type: 工具书
 
-![Untitled](ReadingList/attachments/Untitled%201.png)
+![Untitled](attachments/Untitled%201.png)
 
 Words are only the symbol of ideas and knowledge.
 

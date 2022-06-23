@@ -130,7 +130,7 @@ ubuntu 可以安装最后一个不收费版本的 Typora：直接在 `release` �
 
 [GitHub - Icalingua-plus-plus/Icalingua-plus-plus: A client for QQ and more.](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
 
-![Untitled](Untitled%2011.png)
+![Untitled](attachments/Untitled%2011.png)
 
 目前其他版本的QQ可以向 linux 上面传文件，但是 linux 上面不能往外边传
 

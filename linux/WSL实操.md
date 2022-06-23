@@ -25,7 +25,7 @@ del d:\wsl-ubuntu20.04.tar
 ```
 # 2、配置wsl使用主机代理
 首先在 `Clash for Windows` 中打开 `allow lan` 按钮，然后鼠标移动到上面会出现指定的 ip 地址：  
-![[Pasted image 20220622162802.png]]
+![[attachments/Pasted image 20220622162802.png]]
 此时记住 WSL 的 IP 地址：172.20.0.1，以及配置的端口号：7890  
 接着在 WSL 中 输入：`sudo gedit ~/.bashrc` ，然后在末行写入：
 ```bash

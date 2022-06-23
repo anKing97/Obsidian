@@ -17,21 +17,21 @@ Type: self-study
 
 [pyspider安装与初次使用的那些坑_huangzyi的博客-CSDN博客](https://blog.csdn.net/huangzyi/article/details/114289498?ops_request_misc=&request_id=&biz_id=102&utm_term=Could%20not%20create%20web%20server%20li&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-6-114289498.142^v2^pc_search_result_control_group,143^v4^control&spm=1018.2226.3001.4187)
 
-![Untitled](class%20notes/attachments/Untitled.png)
+![Untitled](attachments/Untitled.png)
 
-![Untitled](class%20notes/attachments/Untitled%201.png)
+![Untitled](attachments/Untitled%201.png)
 
-![Untitled](class%20notes/attachments/Untitled%202.png)
+![Untitled](attachments/Untitled%202.png)
 
-![Untitled](class%20notes/attachments/Untitled%203.png)
+![Untitled](attachments/Untitled%203.png)
 
-![Untitled](class%20notes/attachments/Untitled%204.png)
+![Untitled](attachments/Untitled%204.png)
 
-![Untitled](class%20notes/attachments/Untitled%205.png)
+![Untitled](attachments/Untitled%205.png)
 
-![Untitled](class%20notes/attachments/Untitled%206.png)
+![Untitled](attachments/Untitled%206.png)
 
-![Untitled](Untitled%207.png)
+![Untitled](attachments/Untitled%207.png)
 
 ## 4.2 使用Beautiful Soup
 
@@ -620,9 +620,9 @@ browser.execute_script('alert("To Bottom')
         
         首先引入 **WenDriverWait** 这个对象，指定最长等待时间，然后调用 **until** 方法，并传入要等待条件 **excepted_conditions** 比如 **presence_of_element_located** 如果节点出现，则返回，如果没出现则抛出异常。
         
-        ![Untitled](Untitled%208.png)
+        ![Untitled](attachments/Untitled%208.png)
         
-        ![Untitled](Untitled%209.png)
+        ![Untitled](attachments/Untitled%209.png)
         
 4. **前进和后退**
     
