@@ -11,7 +11,7 @@ Reviewed: No
 
 • 第三部分（第7章至第10章）讨论计算性能和应用。第7章评价各种用来训练深度学习模型的优化算法。第8章检验影响深度学习计算性能的几个重要因素。第9章和第10章分别列举深度学习在计算机视觉和自然语言处理中的重要应用。这部分内容读者可根据兴趣选择阅读。
 
-![Untitled](双目立体视觉/attachments/Untitled%206.png)
+![Untitled](attachments/Untitled%206.png)
 
 上图中由甲章指向乙章的箭头表明甲章的知识有助于理解乙章的内容。如果读者想短时间了解深度学习最基础的概念和技术，只需阅读第1章至第3章；如果读者希望掌握现代深度学习技术，还需阅读第4章至第6章。第7章至第10章读者可以根据兴趣选择阅读。
 
@@ -30,7 +30,7 @@ Reviewed: No
 3. 调整参数，使模型在这些样本中表现得更好。
 4. 重复第2步和第3步，直到模型在任务中的表现令人满意。
 
-![Untitled](Untitled%201%202.png)
+![Untitled](attachments/Untitled%201%202.png)
 
 ## 1.2. 关键组件
 
@@ -254,7 +254,7 @@ $\bigtriangledown_x f(x)=[{\frac{\partial f(x)}{\partial x_1},\frac{\partial f(x
 
 1. ***神经网络图***：
     
-    ![Untitled](Untitled%202%201.png)
+    ![Untitled](attachments/Untitled%202%201.png)
     
     通常会忽略网络的输入层，因此，这个模型为单层神经网络。
     
@@ -273,7 +273,7 @@ $\bigtriangledown_x f(x)=[{\frac{\partial f(x)}{\partial x_1},\frac{\partial f(x
 
 ### 3.4.2.网络架构
 
-![Untitled](Untitled%203%201.png)
+![Untitled](attachments/Untitled%203%201.png)
 
 与线性回归一样，softmax回归也是一个单层神经网络。并且其输出也是全连接层。
 
@@ -343,7 +343,7 @@ $\bigtriangledown_x f(x)=[{\frac{\partial f(x)}{\partial x_1},\frac{\partial f(x
     
     ***多层感知机***： 将前 $L-1$ 层看作表示，把最后一层看作线性预测器。
     
-    ![Untitled](Untitled%204%201.png)
+    ![Untitled](attachments/Untitled%204%201.png)
     
     这个多层感知机有4个输入，3个输出，其隐藏层包含了5个隐藏单元。其层数为2层，且都是全连接层。
     
@@ -547,7 +547,7 @@ $\lfloor (n_h-k_h+p_h+s_h)/s_h\rfloor \times \lfloor (n_w-k_w+p_w+s_w)/s_w\rfloo
 - 卷积编码器：由两个卷积层组成
 - 全连接层密集块：由三个全连接层组成。
 
-![Untitled](Untitled%205%201.png)
+![Untitled](attachments/Untitled%205%201.png)
 
 每个卷积快中的基本单元是一个卷积层、一个sigmoid激活函数和平均汇聚层。
 
@@ -575,3 +575,4 @@ $\lfloor (n_h-k_h+p_h+s_h)/s_h\rfloor \times \lfloor (n_w-k_w+p_w+s_w)/s_w\rfloo
 ## 8.3.语言模型和数据集
 
 ### 8.3.1.学习语言模型
+/git
