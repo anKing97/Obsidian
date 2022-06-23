@@ -7,11 +7,11 @@
   "obsidian-auto-link-title",
   "dataview",
   "templater-obsidian",
-  "obsidian-charts",
   "obsidian-git",
   "obsidian-dictionary-plugin",
   "note-refactor-obsidian",
   "remember-cursor-position",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-charts"
 ]
