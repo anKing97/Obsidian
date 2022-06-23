@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "9412e5f8bed24887",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1499aa87b188894",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/爬虫/Python3网络爬虫开发实战.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d6d4d7767cd64ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd9dc108bcf1a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af05cdf6f69ae3d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f32996178089ac30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dfd8b03991767db",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b813e4af606d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f04ea979148c21",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8d1961df2b9c119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59100a853a3e4f0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/爬虫/Python3网络爬虫开发实战.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e93909addb71bab5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/爬虫/Python3网络爬虫开发实战.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd14ab989efaddf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9d63c9823488166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/爬虫/Python3网络爬虫开发实战.md"
+              }
+            }
+          },
+          {
+            "id": "0e95c94f59969077",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.4285888671875,
+    "collapsed": true
+  },
+  "active": "c1499aa87b188894",
+  "lastOpenFiles": [
+    "Python/爬虫/Python3网络爬虫开发实战.md",
+    "ReadingList/Word power made easy.md",
+    "双目立体视觉/动手学深度学习（PyTorch框架）.md",
+    "双目立体视觉/综述论文.md",
+    "双目立体视觉/入门.md",
+    "ReadingList/Merriam-Webster‘s Vocabulary builder.md",
+    "ReadingList/attachments/Untitled.png",
+    "ReadingList/attachments/蛤蟆先生去看心理医生_by_罗伯特。戴伯德_(z-lib.org).pdf",
+    "ReadingList/蛤蟆先生去看心理医生.md",
+    "Habits/椎动脉型颈椎病.md"
+  ]
+}
