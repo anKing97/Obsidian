@@ -16,4 +16,3 @@
 Python 多线程的用法：<https://setup.scrape.center/python-threading>  
 Python 多进程的用法：<https://setup.scrape.center/python-multiprocessing>  
 
-/git

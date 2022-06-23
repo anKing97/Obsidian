@@ -86,4 +86,5 @@ sh Anaconda3-2022.05-Linux-x86_64.sh
 ./Centos8.exe clean
 ```
 
-![[Pasted image 20220623102353.png]]
+
+/git
