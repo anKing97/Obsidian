@@ -16,5 +16,9 @@
   "strictLineBreaks": true,
   "readableLineLength": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "fileSortOrder": "alphabetical",
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "vimMode": false
 }
