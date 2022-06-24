@@ -26,11 +26,13 @@ del d:\wsl-ubuntu20.04.tar
 # 2、配置wsl使用主机代理
 首先在 `Clash for Windows` 中打开 `allow lan` 按钮，然后鼠标移动到上面会出现指定的 ip 地址：  
 ![[attachments/Pasted image 20220622162802.png]]
-此时记住 WSL 的 IP 地址：172.20.0.1，以及配置的端口号：7890  
+此时记住 WSL 的 IP 地址：172.20.0.1，以及配置的端口号：7890   
+一般情况下，上面的 WSL IP 地址都会变化，所以，可以在 Ubuntu 中采用自动获取 IP 地址的方法：  
 接着在 WSL 中 输入：`sudo gedit ~/.bashrc` ，然后在末行写入：
 ```bash
-export http_proxy=172.20.0.1:7890
-export https_proxy=172.20.0.1:7890
+export hostip=$(cat /etc/resolv.conf |grep -oP '(?<=nameserver\ ).*')
+export https_proxy="http://${hostip}:7890"
+export http_proxy="http://${hostip}:7890"
 ```
 到此配置完毕，可以利用 `wget google.com` 进行测试。
 # 3、配置 zsh 终端
