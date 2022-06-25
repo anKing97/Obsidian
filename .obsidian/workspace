@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eef18bcab26542d5",
+        "id": "836b3b8048ebe26a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class notes/常用软件安装大全.md",
+            "file": "双目立体视觉/入门.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#biaoqian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,6 +64,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1e96848474ce986e",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
             "id": "63f04ea979148c21",
             "type": "leaf",
             "state": {
@@ -83,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/常用软件安装大全.md",
+                "file": "双目立体视觉/入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/常用软件安装大全.md",
+                "file": "双目立体视觉/入门.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/常用软件安装大全.md"
+                "file": "双目立体视觉/入门.md"
               }
             }
           },
@@ -136,24 +144,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 223.4285888671875,
     "collapsed": true
   },
-  "active": "eef18bcab26542d5",
+  "active": "836b3b8048ebe26a",
   "lastOpenFiles": [
-    "class notes/常用软件安装大全.md",
-    "linux/WSL实操.md",
+    "双目立体视觉/入门.md",
+    "双目立体视觉/综述论文.md",
+    "双目立体视觉/动手学深度学习（PyTorch框架）.md",
     "linux/鸟哥的Linux私房菜.md",
+    "linux/WSL实操.md",
+    "class notes/常用软件安装大全.md",
     "class notes/Python 3 网络爬虫开发实战.md",
     "ReadingList/蛤蟆先生去看心理医生.md",
     "ReadingList/Merriam-Webster‘s Vocabulary builder.md",
-    "class notes/JavaScript && Css.md",
-    "class notes/DOCKER.md",
-    "双目立体视觉/综述论文.md",
-    "双目立体视觉/动手学深度学习（PyTorch框架）.md"
+    "class notes/JavaScript && Css.md"
   ]
 }

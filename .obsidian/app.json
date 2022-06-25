@@ -20,5 +20,7 @@
   "fileSortOrder": "alphabetical",
   "showFrontmatter": false,
   "showLineNumber": false,
-  "vimMode": false
+  "vimMode": false,
+  "lineWrap": true,
+  "rightToLeft": false
 }
