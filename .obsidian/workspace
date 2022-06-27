@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/WSL实操.md",
+            "file": "Habits/椎动脉型颈椎病.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/WSL实操.md",
+                "file": "Habits/椎动脉型颈椎病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/WSL实操.md",
+                "file": "Habits/椎动脉型颈椎病.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/WSL实操.md"
+                "file": "Habits/椎动脉型颈椎病.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "836b3b8048ebe26a",
   "lastOpenFiles": [
+    "Habits/椎动脉型颈椎病.md",
     "linux/WSL实操.md",
     "class notes/常用软件安装大全.md",
     "class notes/Ubuntu系统实践.md",
@@ -161,7 +162,6 @@
     "双目立体视觉/动手学深度学习（PyTorch框架）.md",
     "linux/鸟哥的Linux私房菜.md",
     "class notes/Python 3 网络爬虫开发实战.md",
-    "ReadingList/蛤蟆先生去看心理医生.md",
-    "ReadingList/Merriam-Webster‘s Vocabulary builder.md"
+    "ReadingList/蛤蟆先生去看心理医生.md"
   ]
 }
