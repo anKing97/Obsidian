@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Life/迎接新键盘：达尔优a87pro.md",
+            "file": "Daily Life/日记/2022-06-30-新键盘a87pro.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Life/迎接新键盘：达尔优a87pro.md",
+                "file": "Daily Life/日记/2022-06-30-新键盘a87pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Life/迎接新键盘：达尔优a87pro.md",
+                "file": "Daily Life/日记/2022-06-30-新键盘a87pro.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Life/迎接新键盘：达尔优a87pro.md"
+                "file": "Daily Life/日记/2022-06-30-新键盘a87pro.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "836b3b8048ebe26a",
   "lastOpenFiles": [
+    "Daily Life/日记/2022-06-30-新键盘a87pro.md",
     "Daily Life/迎接新键盘：达尔优a87pro.md",
     "Daily Life/椎动脉型颈椎病.md",
     "linux/WSL实操.md",
@@ -161,7 +162,6 @@
     "双目立体视觉/入门.md",
     "双目立体视觉/综述论文.md",
     "双目立体视觉/动手学深度学习（PyTorch框架）.md",
-    "linux/鸟哥的Linux私房菜.md",
-    "class notes/Python 3 网络爬虫开发实战.md"
+    "linux/鸟哥的Linux私房菜.md"
   ]
 }
