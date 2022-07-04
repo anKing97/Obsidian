@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/鸟哥的Linux私房菜.md",
+            "file": "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5dfd8b03991767db",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/鸟哥的Linux私房菜.md",
+                "file": "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/鸟哥的Linux私房菜.md",
+                "file": "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/鸟哥的Linux私房菜.md"
+                "file": "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md"
               }
             }
           },
@@ -153,15 +154,15 @@
   },
   "active": "836b3b8048ebe26a",
   "lastOpenFiles": [
+    "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md",
+    "暑期项目/attachments/Pasted image 20220704170330.png",
+    "class notes/常用软件安装大全.md",
     "linux/鸟哥的Linux私房菜.md",
     "linux/WSL实操.md",
     "双目立体视觉/动手学深度学习（PyTorch框架）.md",
     "2022-06-29.md",
     "Daily Life/日记/2022-06-30-新键盘a87pro.md",
     "Daily Life/迎接新键盘：达尔优a87pro.md",
-    "Daily Life/椎动脉型颈椎病.md",
-    "class notes/常用软件安装大全.md",
-    "class notes/Ubuntu系统实践.md",
-    "双目立体视觉/入门.md"
+    "Daily Life/椎动脉型颈椎病.md"
   ]
 }
