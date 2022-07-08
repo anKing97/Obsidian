@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class notes/常用软件安装大全.md",
+            "file": "双目立体视觉/综述论文.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/常用软件安装大全.md",
+                "file": "双目立体视觉/综述论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/常用软件安装大全.md",
+                "file": "双目立体视觉/综述论文.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/常用软件安装大全.md"
+                "file": "双目立体视觉/综述论文.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "836b3b8048ebe26a",
   "lastOpenFiles": [
-    "class notes/常用软件安装大全.md",
     "双目立体视觉/综述论文.md",
     "双目立体视觉/入门.md",
     "双目立体视觉/动手学深度学习（PyTorch框架）.md",
     "暑期项目/基于单目视觉的平面玻璃缺陷检测系统研究.md",
-    "暑期项目/玻璃缺陷.md",
-    "attachments.md",
-    "暑期项目/attachments/Pasted image 20220704170330.png",
-    "linux/鸟哥的Linux私房菜.md",
-    "linux/WSL实操.md"
+    "class notes/Python for data analysis,3E.md",
+    "class notes/Ubuntu系统实践.md",
+    "class notes/Python 3 网络爬虫开发实战.md",
+    "class notes/MySql.md",
+    "class notes/MongoDB.md",
+    "class notes/JavaScript && Css.md"
   ]
 }
